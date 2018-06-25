@@ -52,7 +52,7 @@
 			font-weight: 400;}
 			#banner img{position: absolute;top: 7em/*112px*/;right: 3em/*45px*/;}
 			#underconstruction img{padding: 0;display: block; margin: 0 auto;
-				max-height: 100%; max-width: 100%;}
+			max-height: 100%; max-width: 100%;}
 
 			#call-to-action {background-color: var(--green);
 			height: 18em/*290px*/;margin-bottom: 6.25/*100px*/;}
