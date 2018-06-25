@@ -51,7 +51,7 @@
 		 	#banner p{margin left: 64px;font-size: 1em; /* 16px/16 = 1em */
 			font-weight: 400;}
 			#banner img{position: absolute;top: 7em/*112px*/;right: 3em/*45px*/;}
-			#underconstruction img{padding-top: 100px;display: block; margin: 0 auto;
+			#underconstruction img{padding-top: 150px;display: block; margin: 0 auto;
 			max-height: 100%; max-width: 100%;}
 
 			#call-to-action {background-color: var(--green);
